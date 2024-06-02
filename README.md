@@ -1,4 +1,4 @@
-React 18 Web app displaying video game and utilizing APIs 
+React 18 Web app displaying video game and utilizing RAWG APIs 
 
 To run project, clone repository and - npm run dev
 
